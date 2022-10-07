@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Piyush Suryawanshi</h1>
-- 👀 I’m interested in Data Analysis and Data Science
 
+- 👀 I’m interested in Data Analysis and Data Science
 - 👨‍💻 Build projects with Machine Learning, Python, Power BI etc.
 - 👯 I’m looking for opportunities in the data science field
 - 📫 How to reach me **piyush29suryawanshi@gmail.com**
 
 <img src="https://github-readme-stats.vercel.app/api?username=Piyush-0629&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true">
   <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-0629&" alt="abhilasha-jairath" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-0629&" alt="abhilasha-jairath" /></p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
