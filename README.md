@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Suryawanshi</h1>
 
 - 👀 I’m interested in Data Analysis and Data Science
-- 👨‍💻 Build projects with Machine Learning, Python, Power BI etc.
+- 👨‍💻 Build projects in Machine Learning, Python, Power BI etc.
 - 👯 I’m looking for opportunities in the data science field
 - 📫 How to reach me **piyush29suryawanshi@gmail.com**
 
